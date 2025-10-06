@@ -49,7 +49,7 @@
         <div
             class="w-24 h-24 rounded-full border-4 border-[#2C7391] mx-auto flex items-center justify-center text-2xl font-bold"
         >
-          80%
+          70%
         </div>
         <p class="mt-2 font-medium">Backend Development</p>
       </div>
@@ -58,7 +58,7 @@
         <div
             class="w-24 h-24 rounded-full border-4 border-[#2C7391] mx-auto flex items-center justify-center text-2xl font-bold"
         >
-          65%
+          75%
         </div>
         <p class="mt-2 font-medium">Code Testing</p>
       </div>
