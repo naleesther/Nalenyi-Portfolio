@@ -12,7 +12,7 @@
         </h2>
 
         <p class="text-gray-700 max-w-md mx-auto md:mx-0">
-          "I’m a highly motivated and ambitious Software Developer with a strong passion for building high-quality, user-friendly digital experiences. I have hands-on experience working with technologies such as JavaScript (with React and Node.js frameworks), HTML/CSS, Python (with Django framework) and Angular. I’ve used these tools to develop responsive web applications and I’m constantly sharpening my skills through real-world projects and continuous learning. I’m driven by curiosity, creativity, and a desire to solve problems through technology. Whether it’s crafting intuitive front-end interfaces or building scalable back-end solutions, I’m eager to grow, embrace new challenges, and contribute meaningfully to any team I join."
+          "I’m a highly motivated and ambitious Software Developer with a strong passion for building high-quality, user-friendly digital experiences. I have hands-on experience working with technologies such as JavaScript (with React and Node.js frameworks), HTML/CSS, Python (with Django framework) and Angular. I’ve used these tools to develop responsive web applications and I’m constantly sharpening my skills through real-world projects and continuous learning. I’m driven by curiosity, creativity, and a desire to solve problems through technology. Whether it’s crafting intuitive front-end interfaces or building scalable back-end solutions, I’m eager to grow, embrace new challenges and contribute meaningfully to any team I join."
         </p>
 
         <!-- Years of Experience -->
